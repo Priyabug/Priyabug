@@ -18,7 +18,10 @@
 - **JNCIA**
 - **Oracle Cloud Infrastructure 2024** 
   
-
+🤳 Connect with me: 
+<a href="https://www.linkedin.com/in/priyanka-bugade/" target="_blank">
+  Priyanka Bugade | LinkedIn
+</a>
 
 
 
