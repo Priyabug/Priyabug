@@ -21,7 +21,7 @@
 
 ## 🤳 Connect with me:  
 
-[![LinkedIn](https://www.linkedin.com/in/priyanka-bugade/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]
 
 
 
