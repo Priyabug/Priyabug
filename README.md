@@ -19,9 +19,6 @@
 - **Oracle Cloud Infrastructure 2024** 
   
 
-## 🤳 Connect with me:  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]
 
 
 
