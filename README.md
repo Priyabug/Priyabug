@@ -20,7 +20,7 @@
   
 🤳 Connect with me: 
 <a href="https://www.linkedin.com/in/priyanka-bugade/" target="_blank">
-  Priyanka Bugade | LinkedIn
+  Priyanka Bugade
 </a>
 
 
