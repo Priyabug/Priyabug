@@ -19,5 +19,9 @@
 - **Oracle Cloud Infrastructure 2024** 
   
 
-![image](https://github.com/user-attachments/assets/d6dc7795-5512-4db6-a18e-c30b90daa713)
+## 🤳 Connect with me:  
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/priyanka-bugade/)  
+
+
 
