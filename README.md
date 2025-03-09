@@ -23,4 +23,5 @@
 - **Mini Search Engine**  
 
 ## 🤳 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/priyanka-bugade/])  
+## 🤳 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/priyanka-bugade/)  
