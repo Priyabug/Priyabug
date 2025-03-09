@@ -17,11 +17,7 @@
 - **Google Cybersecurity Professional**  
 - **JNCIA**
 - **Oracle Cloud Infrastructure 2024** 
+  
 
-
-## 📺 Software Development Projects:  
-- **Mini Search Engine**  
-
-## 🤳 Connect with me:  
 ## 🤳 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/priyanka-bugade/)  
