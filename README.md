@@ -18,8 +18,8 @@
 - **JNCIA**
 - **Oracle Cloud Infrastructure 2024** 
   
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp;
+  [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+  &nbsp;
 
 
 
