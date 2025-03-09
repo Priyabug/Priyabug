@@ -18,13 +18,8 @@
 - **JNCIA**
 - **Oracle Cloud Infrastructure 2024** 
   
-<p style="font-family: Arial, sans-serif; font-size: 16px; color: #333;">
-  🤳 <span style="font-weight: bold; color: #0077b5;">Connect with me:</span> 
-  <a href="https://www.linkedin.com/in/priyanka-bugade/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" 
-         alt="LinkedIn Logo" style="width: 30px; height: 30px; vertical-align: middle;">
-  </a>
-</p>
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
 
 
 
