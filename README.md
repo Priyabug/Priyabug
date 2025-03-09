@@ -22,7 +22,7 @@
   🤳 <span style="font-weight: bold; color: #0077b5;">Connect with me:</span> 
   <a href="https://www.linkedin.com/in/priyanka-bugade/" target="_blank" 
      style="text-decoration: none; color: #0077b5; font-weight: bold;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2024.png" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_%282019%29.svg" 
          alt="LinkedIn Logo" style="width: 20px; height: 20px; vertical-align: middle;">
   </a>
 </p>
