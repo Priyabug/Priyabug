@@ -2,7 +2,7 @@
 
 
 # Hi, I'm Priyanka!  
-**Software Engineer | Cybersecurity Professional**  
+**Security Engineer | Cybersecurity Professional**  
 
 ## 👨‍💻 Technical Projects:  
 - **Border Gateway Protocol** - Launching-BGP-network-on-one-of-the-autonomous-system  
