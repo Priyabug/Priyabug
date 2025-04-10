@@ -15,7 +15,7 @@
 
 ## 🎓 Certifications, Courses, and Bootcamps:  
 - **Google Cybersecurity Professional**  
-- **JNCIA**
+- **Juniper Networks Certified Associate**
 - **Oracle Cloud Infrastructure 2024** 
   
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
