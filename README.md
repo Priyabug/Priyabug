@@ -14,7 +14,7 @@
 
 
 ## 🎓 Certifications, Courses, and Bootcamps:  
-- **Google Cybersecurity Professional**  
+- **Google Cybersecurity Professional (Coursera)**  
 - **Juniper Networks Certified Associate**
 - **Oracle Cloud Infrastructure 2024**
 - **Google Cloud Security Professional(on-going)**
