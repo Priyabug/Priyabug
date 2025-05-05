@@ -2,7 +2,7 @@
 
 
 # Hi, I'm Priyanka!  
-**Network | Security**  
+**Network Engineer**  
 
 ## 👨‍💻 Technical Projects:  
 - **Border Gateway Protocol** - Launching-BGP-network-on-one-of-the-autonomous-system  
