@@ -6,7 +6,6 @@
 
 ## 👨‍💻 Technical Projects:  
 - **Border Gateway Protocol** - Launching-BGP-network-on-one-of-the-autonomous-system  
-- **Next Generation FireWall** - Deployment-and-Prevention-of-Threats-with-Google-Cloud-NGFW-Enterprise
 - **Domain Name System** - Local-DNS-Exploits-&-Defense
 - **Virtual Private Network** - Virtual-Private-Network---IP-Tunneling-and-Routing 
 - **Web Application Firewall** - Implementation and Tracking a Firewall
