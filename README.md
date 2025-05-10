@@ -9,7 +9,7 @@
 - **Domain Name System** - Local-DNS-Exploits-&-Defense
 - **Virtual Private Network** - Virtual-Private-Network---IP-Tunneling-and-Routing 
 - **Web Application Firewall** - Implementation and Tracking a Firewall
-- **Transmission Control Protocol/Internet Protocol** - Vulnerabilities in the TCP-IP Protocol
+- **Transmission Control Protocol/Internet Protocol** - TCP/IP Protocol Analysis
 
 
 ## 🎓 Certifications, Courses, and Bootcamps:  
