@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Technical Projects:  
 - **Border Gateway Protocol** - Launching-BGP-network-on-one-of-the-autonomous-system  
-- **Domain Name System** - Local-DNS-Exploits-&-Defense
+- **Domain Name System** - Local DNS Behavior Analysis
 - **Virtual Private Network** - Virtual-Private-Network---IP-Tunneling-and-Routing 
 - **Web Application Firewall** - Implementation and Tracking a Firewall
 - **Transmission Control Protocol/Internet Protocol** - TCP/IP Protocol Analysis
