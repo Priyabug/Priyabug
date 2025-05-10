@@ -17,7 +17,7 @@
 - **Google Cybersecurity Professional (Coursera)**  
 - **Juniper Networks Certified Associate (On-going)**
 - **Oracle Cloud Infrastructure 2024**
-- **Google Cloud Security Professional(on-going)**
+
   
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 &nbsp;
