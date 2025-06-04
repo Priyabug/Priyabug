@@ -2,7 +2,7 @@
 
 
 # Hi, I'm Priyanka!  
-**A tech enthusiast with a background in network, cloud infrastructure, and cross-functional collaboration. I enjoy solving real-world problems and working closely with product and engineering teams to deliver excellent customer experiences.**  
+**A tech enthusiast with a background in cloud and network infrastructure, and cross-functional collaboration. I enjoy solving real-world problems and working closely with product and engineering teams to deliver excellent customer experiences.**  
 
 ## 👨‍💻 Technical Projects:  
 - **Border Gateway Protocol** - Launching-BGP-network-on-one-of-the-autonomous-system  
