@@ -14,7 +14,7 @@
 
 ## 🎓 Certifications, Courses, and Bootcamps:  
 - **Juniper Networks Certified Associate (On-going)**
-- **Cisco Certified Network Associate v1.1 (200-301)(On-going)**
+- **AWS Advanced Networking – Specialty(On-going)**
 - **Oracle Cloud Infrastructure 2024**
 
   
