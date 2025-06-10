@@ -14,7 +14,7 @@
 
 ## 🎓 Certifications, Courses, and Bootcamps:  
 - **Juniper Networks Certified Associate (On-going)**
-- **AWS Advanced Networking – Specialty(On-going)**
+- **Palo Alto Networks Certified Network Security Administrator (On-going)**
 - **Oracle Cloud Infrastructure 2024**
 
   
